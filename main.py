@@ -11,7 +11,6 @@ ami reprezentálja egy alkalmazott példányait (object) istance. Az osztály ko
 és ebből határozza meg az adott attribútomokat (property). 
 
 1. feladat:
-
 Készítsen programot a következő feladatok megoldására, amelynek a forráskódját/projektjét vb2018 néven mentse el!
 
 2. feladat:
