@@ -3,9 +3,15 @@ A megoldás során vegye figyelembe a következőket:
  * A program megírásakor a fájlban lévő adatok helyes szerkezetét nem kell ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leírtnak megfelelnek.
  * Megoldását úgy készítse el, hogy az azonos szerkezetű, de tetszőleges inputadatok mellet is helyes eredményt adjon!
 
-A "vb2018.txt" UTF-8 kódolású állomány soraiban a VB helyszíneinek (stadionjainak) adatait tároltuk a következő sorrendbe: a város neve, a stadion neve(nev1), a stadion alternatív neve(nev2) és a stadion férőhelye.
+A "vb2018.txt" UTF-8 kódolású állomány soraiban a VB helyszíneinek (stadionjainak) adatait tároltuk a következő sorrendbe: 
+a város neve, a stadion neve(nev1), a stadion alternatív neve(nev2) és a stadion férőhelye.
+
+Hozz létre egy osztályt (class) létrehozása NEM KÖTELEZŐ DE több pontot lehet kapni osztály használata esetén, 
+ami reprezentálja egy alkalmazott példányait (object) istance. Az osztály konstruktora (constructor) paraméterként kapja meg a beolvasott sort, 
+és ebből határozza meg az adott attribútomokat (property). 
 
 1. feladat:
+
 Készítsen programot a következő feladatok megoldására, amelynek a forráskódját/projektjét vb2018 néven mentse el!
 
 2. feladat:
